@@ -1,2 +1,2 @@
 # Test file
-This file is test. so, no mean it.
+自分で作成したファイルを保存する場所
